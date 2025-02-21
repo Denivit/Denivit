@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет, меня зовут Денис! 👋
 
-<!--
-**Denivit/Denivit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Я изучаю професию  "backend-разработчик".  
+💻 Работаю с Python.  
+🌱 Сейчас изучаю API: интерфейс взаимодействия программ.  
+📫 Как связаться со мной: tg: @denivit123 
 
-Here are some ideas to get you started:
+### 🛠️ Мой стек технологий:
+- **Языки программирования:** Python
+- **Фреймворки:** Django
+- **Базы данных:** mySQL
+- **Инструменты:** Git, GitHub
+### 📊 Статистика GitHub:
+![Ваши языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&theme=dark)
+![Статистика](https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Спасибо, что заглянули в мой профиль! Давайте сотрудничать!
