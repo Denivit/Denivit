@@ -11,7 +11,6 @@
 - **Базы данных:** mySQL
 - **Инструменты:** Git, GitHub
 ### 📊 Статистика GitHub:
-![Ваши языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Denivit&layout=compact&theme=dark)
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Denivit&show_icons=true&theme=dark)
 
 🌟 Спасибо, что заглянули в мой профиль! Давайте сотрудничать!
